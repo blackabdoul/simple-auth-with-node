@@ -43,15 +43,15 @@ This project focuses on **server-side logic**, not frontend security.
 
 ## 📂 Project Structure
 
-3.5 Secrets Project/
-│
-├── public/
-│ ├── index.html
-│ └── secret.html
-│
-├── index.js
-├── package.json
-├── package-lock.json
+3.5 Secrets Project/  
+│  
+├── public/  
+│ ├── index.html  
+│ └── secret.html  
+│  
+├── index.js  
+├── package.json  
+├── package-lock.json  
 └── node_modules/
 
 ## ▶️ How to Run the Project
