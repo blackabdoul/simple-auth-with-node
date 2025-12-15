@@ -87,3 +87,13 @@ Store users in a database
 Implement sessions & cookies
 
 Build a proper authentication system
+
+## ⭐️ Support
+
+If you find this useful:
+
+Star the repository ⭐
+
+Fork it 🍴
+
+Or use it to practice on your own
